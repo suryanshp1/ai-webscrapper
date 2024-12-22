@@ -27,3 +27,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run main.py
 ```
+
+## Screenshot:
+
+![app demo](https://github.com/suryanshp1/ai-webscrapper/blob/main/screenshots/app-demo.png?raw=true)
